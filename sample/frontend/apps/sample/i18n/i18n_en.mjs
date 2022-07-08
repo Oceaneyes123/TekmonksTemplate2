@@ -1,3 +1,3 @@
-export​ ​const​ ​i18n​ = {
-"Title"​ :​ ​"Sample"​,
+export const i18n = {
+"Title" : "Sample",
 }
